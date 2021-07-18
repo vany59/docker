@@ -1,0 +1,8 @@
+bk/
+elasticsearch/
+kibana/
+mongo/
+mssql/
+mysql/
+redis/
+sql/
